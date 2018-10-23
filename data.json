@@ -1,6 +1,7 @@
 [{
   "id": 1,
   "title": "Rubik",
+  "fontFamily": "Roboto",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -29,6 +30,7 @@
 {
   "id": 2,
   "title": "Rubik",
+  "fontFamily": "Rubik",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -58,6 +60,7 @@
 {
   "id": 3,
   "title": "Rubik",
+  "fontFamily": "Oswald",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -85,6 +88,7 @@
 {
   "id": 4,
   "title": "Rubik",
+  "fontFamily":"Lato",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -112,6 +116,7 @@
 {
   "id": 5,
   "title": "Rubik",
+  "fontFamily":"playfair Display",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -133,6 +138,7 @@
 {
   "id": 6,
   "title": "Rubik",
+  "fontFamily": "News Cycle",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -160,6 +166,7 @@
 {
   "id": 7,
   "title": "Rubik",
+  "fontFamily":"Merriweather Sans",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -187,6 +194,7 @@
 {
   "id": 8,
   "title": "Rubik",
+  "fontFamily": "Source",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -214,6 +222,7 @@
 {
   "id": 9,
   "title": "Rubik",
+  "fontFamily": "Titillium Web",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
@@ -235,6 +244,7 @@
 {
   "id": 10,
   "title": "Rubik",
+  "fontFamily": "Works Sans",
   "bodyOne": "Need to put together a Quick",
   "bodyTwo": "Beautiful landing Page",
   "bodyThree": "for Your Project?",
